@@ -1,5 +1,5 @@
-I am an MA student in Biomedical Informatics at the Department of Biomedical Informatics(DBMI), Columbia University, advised by Prof. Chunhua Weng.
+I am an MA student in Biomedical Informatics at Columbia University. I currently work with Prof. Chunhua Weng in the Department of Biomedical Informatics.
 
-I am currently exploring research directions in biomedical informatics, with a growing interest in health AI.
+My research interests are still evolving, but I am especially interested in health AI and its applications in biomedical and clinical settings.
 
-Prior to this, I obtained a Bachelor of Science degree in Biology from the University of California, Riverside.
+Before Columbia, I earned my B.S. in Biology from the University of California, Riverside.
