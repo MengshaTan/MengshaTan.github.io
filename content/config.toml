@@ -1,7 +1,7 @@
 [site]
 title = "Mengsha Tan"
-description = "MA student in Biomedical Informatics at Columbia University."
-favicon = "/favicon.svg"
+description = "Personal academic website of Mengsha Tan."
+favicon = "/favicon.png"
 last_updated = "June 06, 2026"
 
 [author]
