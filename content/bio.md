@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an MA student in Biomedical Informatics at the Department of Biomedical Informatics(DBMI), Columbia University, advised by Prof. Chunhua Weng.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I am currently exploring research directions in biomedical informatics, with a growing interest in health AI.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Prior to this, I obtained a Bachelor of Science degree in Biology from the University of California, Riverside.

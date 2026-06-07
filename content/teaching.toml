@@ -1,10 +1,25 @@
 type = "card"
-title = "Teaching"
-description = "Courses I have taught or assisted with."
+title = "Education"
+description = "My academic background."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Columbia University"
+subtitle = "MA in Biomedical Informatics"
+date = "2025 - Present"
+content = "**Relevant coursework**:\n- Machine Learning For Healthcare\n- Symbolic AI In Healthcare\n- Computational Biomedicine and Health\n- Biostatistical Methods\n- Health Data Science"
+tags = ["Graduate", "Master's", "Biomedical Informatics"]
+
+
+[[items]]
+title = "University of California, Riverside"
+subtitle = "Bachelor of Science in Biology"
+date = "2016-2025"
+content = "**Honors & Awards:**\n- Chancellor's Honors List\n- Dean's Honors List\n\n**Relevant coursework:**\n- Biology: Molecular & Cellular Biology, Genetics, Biochemistry\n- Chemistry: General & Organic Chemistry\n- Quantitative: Calculus, Statistics, Data-Oriented Computing (Python)"
+tags = ["Undergraduate", "Bachelor's", "Biology"]
+
+[[items]]
+title = "Rockland Country Day School"
+subtitle = ""
+date = "2013 - 2016"
+content = "Congers, NY, United States"
+tags = ["High School"]

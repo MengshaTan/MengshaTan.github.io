@@ -1,18 +1,18 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "谭梦莎"
+description = "哥伦比亚大学硕士生个人主页。"
+last_updated = "2026年06月06日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "谭梦莎"
+title = "硕士生"
+institution = "哥伦比亚大学"
 
 [social]
-location = "城市，国家"
+location = "纽约，美国"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "622 W. 168th Street, PH20",
+  "New York, NY 10032, United States"
 ]
 
 [[navigation]]
@@ -28,22 +28,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "教育经历"
 type = "page"
 target = "teaching"
 href = "/teaching"
 
-[[navigation]]
-title = "奖项"
-type = "page"
-target = "awards"
-href = "/awards"
+# [[navigation]]
+# title = "奖项"
+# type = "page"
+# target = "awards"
+# href = "/awards"
 
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
+# [[navigation]]
+# title = "服务"
+# type = "page"
+# target = "services"
+# href = "/services"
 
 [[navigation]]
 title = "简历"

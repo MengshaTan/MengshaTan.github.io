@@ -3,9 +3,10 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "临床信息学",
+  "临床自然语言处理",
+  "医疗大语言模型",
+  "以人为中心的健康 AI"
 ]
 
 [[sections]]
@@ -14,12 +15,12 @@ type = "markdown"
 source = "bio.md"
 title = "关于我"
 
-[[sections]]
-id = "featured_publications"
-type = "publications"
-title = "精选论文"
-filter = "selected"
-limit = 5
+# [[sections]]
+# id = "featured_publications"
+# type = "publications"
+# title = "精选论文"
+# filter = "selected"
+# limit = 5
 
 [[sections]]
 id = "news"

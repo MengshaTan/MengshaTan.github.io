@@ -1,10 +1,24 @@
 type = "card"
-title = "教学"
-description = "我曾参与授课或助教的课程。"
+title = "教育经历"
+description = "我的学术背景。"
 
 [[items]]
-title = "示例课程"
-subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+title = "哥伦比亚大学"
+subtitle = "生物医学信息学硕士"
+date = "2025 - 至今"
+content = "**相关课程**：\n- 面向医疗健康的机器学习\n- 面向医疗健康的符号人工智能\n- 计算生物医学与健康\n- 生物统计方法\n- 健康数据科学"
+tags = ["研究生", "硕士", "生物医学信息学"]
+
+[[items]]
+title = "加利福尼亚大学河滨分校"
+subtitle = "生物学理学学士"
+date = "2016 - 2025"
+content = "**荣誉与奖项：**\n- 校长荣誉名单\n- 院长荣誉名单\n\n**相关课程：**\n- 生物学：分子与细胞生物学、遗传学、生物化学\n- 化学：普通化学与有机化学\n- 定量课程：微积分、统计学、数据导向计算（Python）"
+tags = ["本科", "学士", "生物学"]
+
+[[items]]
+title = "Rockland Country Day School"
+subtitle = ""
+date = "2013 - 2016"
+content = "美国纽约州康格斯"
+tags = ["高中"]

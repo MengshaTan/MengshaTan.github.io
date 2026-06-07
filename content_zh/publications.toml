@@ -1,4 +1,5 @@
 type = "publication"
 title = "论文"
-description = "我的研究成果列表。"
+# description = "我的研究成果列表。"
+description = "研究工作正在推进中，欢迎关注后续更新。"
 source = "publications.bib"
